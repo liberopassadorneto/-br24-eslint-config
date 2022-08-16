@@ -16,6 +16,10 @@
 npm i -D eslint @br24/eslint-config
 ```
 
+```
+yarn add -D eslint @br24/eslint-config
+```
+
 2. Create a `.eslintrc.json` file extending the config:
 
 ```
