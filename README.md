@@ -10,18 +10,19 @@
 
 ## Setup
 
-1. Install the dependencies
+1. Install the dependencies:
 
+Using `npm`:
 ```
 npm i -D eslint @br24/eslint-config
 ```
 
+Using `yarn`:
 ```
 yarn add -D eslint @br24/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
-
 ```
 {
   "extends": "@br24/eslint-config/react"

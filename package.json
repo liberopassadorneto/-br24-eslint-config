@@ -6,8 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/liberopassadorneto/eslint-config-br24.git"
+    "url": "br24apps/eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
