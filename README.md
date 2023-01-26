@@ -1,4 +1,4 @@
-# Br24 ESLint config
+# ESLint config
 
 ## Whats included?
 
@@ -10,22 +10,15 @@
 
 ## Setup
 
-1. Install the dependencies:
-
-Using `npm`:
+1. Install the dependencies
 ```
-npm i -D eslint @br24/eslint-config
-```
-
-Using `yarn`:
-```
-yarn add -D eslint @br24/eslint-config
+npm i -D eslint @liberopneto/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@br24/eslint-config/react"
+  "extends": "@liberopneto/eslint-config/react"
 }
 ```
 

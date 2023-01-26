@@ -1,12 +1,12 @@
 {
-  "name": "@br24/eslint-config",
+  "name": "@liberopneto/eslint-config",
   "version": "1.0.0",
   "private": false,
-  "description": "ESLint configuration used by Br24.",
+  "description": "ESLint configuration used by me.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "br24apps/eslint-config"
+    "url": "liberopassadorneto/eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
