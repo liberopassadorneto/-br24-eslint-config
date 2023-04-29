@@ -2,7 +2,7 @@
   "name": "@liberopneto/eslint-config",
   "version": "1.2.0",
   "private": false,
-  "description": "ESLint configuration used by my personal projects.",
+  "description": "ESLint configuration used for my personal projects.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
