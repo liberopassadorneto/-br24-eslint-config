@@ -30,7 +30,7 @@ module.exports = {
       'singleQuote': true,
       'trailingComma': 'all',
       'arrowParens': 'always',
-      'semi': true,
+      'semi': false,
       'endOfLine': 'auto',
     }],
     'react/react-in-jsx-scope': 'off',

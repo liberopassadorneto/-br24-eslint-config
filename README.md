@@ -19,6 +19,7 @@ npm i -D eslint @liberopneto/eslint-config
 ```
 {
   "extends": "@liberopneto/eslint-config/react"
+  // "extends": "@liberopneto/eslint-config/node"
 }
 ```
 

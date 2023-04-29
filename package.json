@@ -1,15 +1,12 @@
 {
   "name": "@liberopneto/eslint-config",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "private": false,
-  "description": "ESLint configuration used by me.",
+  "description": "ESLint configuration used by my personal projects.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "url": "liberopassadorneto/eslint-config"
-  },
-  "scripts": {
-    "test": "echo \"No test specified\""
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
